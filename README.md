@@ -11,5 +11,10 @@ Made this repo becuase I need typedefs for making my shellcode loader and its al
 
 Let me know if you encouter a issue or make a PR 
 
+# Usage 
+
+Same as PHNT . Look inside PHNT folder
+
+# License
 License: Fuck what's that
 
