@@ -2777,7 +2777,7 @@ RTLCREATEUSERPROCESSEX)(
 #endif
 
 #if (PHNT_VERSION >= PHNT_VISTA)
-DECLSPEC_NORETURN
+
 typedef
 VOID(
 NTAPI*
@@ -2942,7 +2942,7 @@ RTLCREATEUSERTHREAD)(
     );
 
 #if (PHNT_VERSION >= PHNT_VISTA) // should be PHNT_WINXP, but is PHNT_VISTA for consistency with RtlExitUserProcess
-DECLSPEC_NORETURN
+
 typedef
 VOID(
 NTAPI*
